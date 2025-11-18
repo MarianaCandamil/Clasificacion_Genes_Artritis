@@ -2,11 +2,11 @@
 ## MODELO DE CLASIFICACIÓN DEL RIESGO DE ARTRITIS REUMATOIDE BASADO EN SECUENCIAS COMPLETAS DE GENES UTILIZANDO DATOS DE CLINVAR
 Integrantes:
 
-Mariana Sofia Candamil.
 Dayanne Paola Chaparro.
 Ana Maria Restrepo.
 Ana Lorena Uribe.
 Claudio Zapata.
+Mariana Sofia Candamil.
 
 
 
